@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\bin\Debug\net6.0\Задача.exe
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\bin\Debug\net6.0\Задача.deps.json
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\bin\Debug\net6.0\Задача.runtimeconfig.json
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\bin\Debug\net6.0\Задача.dll
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\bin\Debug\net6.0\Задача.pdb
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.dll
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\refint\Задача.dll
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.pdb
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\Задача.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Итоговое\Проект\Задача\obj\Debug\net6.0\ref\Задача.dll
